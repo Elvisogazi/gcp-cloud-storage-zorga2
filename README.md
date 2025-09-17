@@ -1,6 +1,3 @@
-# gcp-cloud-storage-zorga2
-This project demonstrates my ability to work with Google Cloud Storage using both the Cloud Console and Cloud Shell. I created a bucket, uploaded objects (files/images), and managed storage directly from the GCP environment.
-
 # GCP Cloud Storage Bucket – Zorga2
 
 This project demonstrates how I created and managed a **Google Cloud Storage bucket** using both the **Google Cloud Console** and **Cloud Shell**.  
